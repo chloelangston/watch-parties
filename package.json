@@ -1,0 +1,14 @@
+{
+  "name": "906ab43e6414727f",
+  "main": "906ab43e6414727f@434.js",
+  "version": "434.0.0",
+  "homepage": "https://observablehq.com/d/906ab43e6414727f",
+  "author": {
+    "name": "Chloe Langston",
+    "url": "https://observablehq.com/@chloelangston"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
